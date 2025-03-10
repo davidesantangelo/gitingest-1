@@ -146,6 +146,10 @@ Gitingest aims to be friendly for first time contributors, with a simple Python 
 
 Check out the NPM alternative 📦 Repomix: <https://github.com/yamadashy/repomix>
 
+### Looking for a Ruby alternative?
+
+Check out the Ruby alternative 💎 Gitingest: <https://github.com/davidesantangelo/gitingest>
+
 ## 🚀 Project Growth
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cyclotruc/gitingest&type=Date)](https://star-history.com/#cyclotruc/gitingest&Date)
